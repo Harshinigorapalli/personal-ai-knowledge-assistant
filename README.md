@@ -1,6 +1,6 @@
 # 📄 Personal AI Knowledge Assistant
 
-🚀 Built a semantic search-powered AI assistant for querying PDFs using embeddings.
+Built a semantic search-powered AI assistant for querying PDFs using embeddings.
 
 ## 🎥 Demo
 
