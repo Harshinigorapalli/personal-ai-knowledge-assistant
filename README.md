@@ -1,17 +1,17 @@
 # 📄 Personal AI Knowledge Assistant
 
+🚀 Built a semantic search-powered AI assistant for querying PDFs using embeddings.
+
+## 🎥 Demo
+
 ![Demo](demo.gif)
+
+---
 
 An AI-powered app that allows users to upload PDFs and ask questions based on document content using semantic search.
 
-## Features
-- 📂 Upload PDF
-- 🤖 Ask questions
-- ⚡ Fast semantic search (FAISS)
-- 💬 Chat-like interface
+## 🚀 How to Run
 
-## Tech Stack
-- Python
-- Streamlit
-- Sentence Transformers
-- FAISS
+```bash
+pip install -r requirements.txt
+streamlit run app.py
